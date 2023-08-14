@@ -10,7 +10,7 @@ It leverages Spring Boot and Hibernate to provide a user-friendly interface for 
 - Farmers and Suppliers. Each role has specific functionalities and permissions.
 
 - **Seed Catalog**: Browse and search through a comprehensive catalog of available seeds with details like name,
-- type, description, and supplier information.
+  type, description, and supplier information.
 
 - **Order Management**: Farmers can place orders for seeds, and suppliers can manage these orders.
 
